@@ -24,7 +24,7 @@ python -m venv NombreDeMiEntorno
     wolVenv\Scripts\activate
 ```
 
--Activar en macOS y Linux:ç
+-Activar en macOS y Linux:
 ```bash
     source wolVenv/bin/activate
 ```
